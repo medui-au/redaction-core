@@ -66,8 +66,10 @@ Never log text or tokens.
 
 ## Running the service
 
+It isn't on PyPI: install it from this repository, at a release tag.
+
 ```
-pip install 'bps-redaction[service,bp]'
+pip install 'bps-redaction[service,bp] @ git+https://github.com/medui-au/redaction-core@v0.2.21'
 bps-redact keygen          # encryption key → BPS_REDACT_KEYS
 bps-redact keygen audit    # patient-hash secret → BPS_REDACT_AUDIT_SECRET
 bps-redact serve           # 127.0.0.1:8470; /admin to log in
@@ -78,7 +80,10 @@ system-wide. Details in [docs/OPERATING.md](docs/OPERATING.md).
 
 ## Tests
 
+From a clone of this repository:
+
 ```
+git clone https://github.com/medui-au/redaction-core && cd redaction-core
 pip install -e '.[service,test]'
 pytest
 ```

@@ -1,7 +1,10 @@
 # Running the service
 
+The package isn't on PyPI. Install it from the repository at a release tag, or from a clone:
+
 ```
-pip install 'bps-redaction[service,bp]'      # or: pip install -e '.[service,bp]'
+pip install 'bps-redaction[service,bp] @ git+https://github.com/medui-au/redaction-core@v0.2.21'
+# or, in a clone:  pip install -e '.[service,bp]'
 
 # Make these once and keep them (an env file only the service user can read).
 # Losing the encryption key loses only open sessions (24 h) and flagged content.
