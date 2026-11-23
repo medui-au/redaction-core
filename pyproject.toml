@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bps-redaction"
+version = "0.2.21"
+description = "Rule-based redaction and de-redaction of patient text, for Best Practice Premier data"
+requires-python = ">=3.11"
+license = { text = "Apache-2.0" }
+dependencies = []
+
+[project.optional-dependencies]
+bp = ["pyodbc>=5"]
+service = ["fastapi>=0.110", "uvicorn>=0.29", "cryptography>=42", "python-multipart>=0.0.9"]
+test = ["pytest>=8", "httpx>=0.27"]
+
+[project.scripts]
+bps-redact = "bps_redaction_service.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+bps_redaction = ["data/*", "adapters/sql/*.sql"]

@@ -1,0 +1,15 @@
+BPS Redaction Service
+Copyright 2026 H. Eviston (Medical) Pty Ltd
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes third-party data:
+
+- src/bps_redaction/data/nicknames.csv — from carltonnorthern/nicknames,
+  Apache License 2.0. See src/bps_redaction/data/NICKNAMES_SOURCE.md.
+- src/bps_redaction/data/words.txt — an English word list from SCOWL
+  (Spell Checker Oriented Word Lists), under the terms in
+  src/bps_redaction/data/words.LICENSE.
+
+"Best Practice" and "Bp Premier" are names of Best Practice Software. This
+project is independent of Best Practice Software and is not endorsed by it.

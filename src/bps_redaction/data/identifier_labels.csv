@@ -1,0 +1,18 @@
+label,shape,active,note
+UR,,true,Hospital UR number (UR / UR No / UR Number)
+URN,,true,Hospital unit record number
+MRN,,true,Medical record number
+Medical Record Number,,true,
+Hospital No,,true,
+Hospital Number,,true,
+Patient ID,,true,"Lab and imaging patient IDs, e.g. ss-nnnn"
+Patient No,,true,
+Accession,,true,I-MED and other radiology (Accession / Accession No / Accession Number)
+Episode,,true,Episode No / Episode Number
+Lab No,,true,Pathology lab number
+Lab Number,,true,
+Specimen,,true,Specimen No / Specimen Number
+Request No,,true,Pathology / imaging request number
+Request Number,,true,
+Client ID,,true,Community services client ID
+Client No,,true,

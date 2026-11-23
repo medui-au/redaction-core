@@ -1,0 +1,390 @@
+{
+  "_comment": "Invented people and places only. Any resemblance to real people is coincidence.",
+  "patients": {
+    "1001": {
+      "demographics": {
+        "FIRSTNAME": "Marigold",
+        "MIDDLENAME": "Elspeth",
+        "SURNAME": "Quillfeather",
+        "NAME": "Mrs Marigold Quillfeather",
+        "PREFERREDNAME": "Goldie",
+        "DOB": "1957-03-14",
+        "ADDRESS": "42 Wombat Hollow Road, Mudgeeraba QLD 4213",
+        "ADDRESS1_PART": "42 Wombat Hollow Road",
+        "ADDRESS2_PART": "",
+        "PHONE_HOME": "0755501234",
+        "PHONE_MOBILE": "0491570156",
+        "PHONE_WORK": "",
+        "EMAIL": "goldie.q@example.com",
+        "NOK": "",
+        "MEDICARENO": "2953 70156 1",
+        "MEDICARENO_CARD": "2953701561",
+        "PENSIONNO": "",
+        "DVANO": "",
+        "IHI": "",
+        "CITY_PART": "Mudgeeraba",
+        "POSTCODE_PART": "4213",
+        "NOK1_FIRSTNAME": "Rupert",
+        "NOK1_SURNAME": "Quillfeather",
+        "NOK1_PHONE1": "0491570157",
+        "NOK1_PHONE2": "",
+        "NOK2_FIRSTNAME": "",
+        "NOK2_SURNAME": "",
+        "NOK2_PHONE1": "",
+        "NOK2_PHONE2": ""
+      },
+      "contacts_in": [
+        {
+          "CONTACTID": 501,
+          "FIRSTNAME": "Thaddeus",
+          "SURNAME": "Brindlecombe",
+          "CATEGORYNAME": "Cardiology"
+        }
+      ],
+      "contacts_out": []
+    },
+    "1002": {
+      "demographics": {
+        "FIRSTNAME": "Mary-Jane",
+        "MIDDLENAME": "",
+        "SURNAME": "Van Dyke",
+        "NAME": "Ms Mary-Jane Van Dyke",
+        "PREFERREDNAME": "",
+        "DOB": "1990-11-02",
+        "ADDRESS": "3 Saltbush Close, Mudgeeraba QLD 4213",
+        "ADDRESS1_PART": "3 Saltbush Close",
+        "ADDRESS2_PART": "",
+        "CITY_PART": "Mudgeeraba",
+        "POSTCODE_PART": "4213",
+        "PHONE_HOME": "(H) ",
+        "PHONE_MOBILE": "0491570159",
+        "PHONE_WORK": "(W) ",
+        "EMAIL": "",
+        "NOK": "",
+        "MEDICARENO": "",
+        "MEDICARENO_CARD": "",
+        "PENSIONNO": "",
+        "DVANO": "",
+        "IHI": "",
+        "NOK1_FIRSTNAME": "",
+        "NOK1_SURNAME": "",
+        "NOK1_PHONE1": "",
+        "NOK1_PHONE2": "",
+        "NOK2_FIRSTNAME": "",
+        "NOK2_SURNAME": "",
+        "NOK2_PHONE1": "",
+        "NOK2_PHONE2": ""
+      },
+      "contacts_in": [],
+      "contacts_out": []
+    },
+    "1003": {
+      "demographics": {
+        "FIRSTNAME": "Ann",
+        "MIDDLENAME": "",
+        "SURNAME": "Rose",
+        "NAME": "Mrs Ann Rose",
+        "PREFERREDNAME": "",
+        "DOB": "1948-06-30",
+        "ADDRESS": "",
+        "ADDRESS1_PART": "",
+        "ADDRESS2_PART": "",
+        "CITY_PART": "",
+        "POSTCODE_PART": "",
+        "PHONE_HOME": "",
+        "PHONE_MOBILE": "",
+        "PHONE_WORK": "",
+        "EMAIL": "",
+        "NOK": "",
+        "MEDICARENO": "",
+        "MEDICARENO_CARD": "",
+        "PENSIONNO": "",
+        "DVANO": "",
+        "IHI": "",
+        "NOK1_FIRSTNAME": "",
+        "NOK1_SURNAME": "",
+        "NOK1_PHONE1": "",
+        "NOK1_PHONE2": "",
+        "NOK2_FIRSTNAME": "",
+        "NOK2_SURNAME": "",
+        "NOK2_PHONE1": "",
+        "NOK2_PHONE2": ""
+      },
+      "contacts_in": [],
+      "contacts_out": []
+    },
+    "1004": {
+      "demographics": {
+        "FIRSTNAME": "Perpetua",
+        "MIDDLENAME": "",
+        "SURNAME": "Haverstock",
+        "NAME": "Mrs Perpetua Haverstock",
+        "PREFERREDNAME": "",
+        "DOB": "1961-09-21",
+        "ADDRESS": "17 O'Reilly Road, Tallebudgera QLD 4228",
+        "ADDRESS1_PART": "17 O'Reilly Road",
+        "ADDRESS2_PART": "",
+        "CITY_PART": "Tallebudgera",
+        "POSTCODE_PART": "4228",
+        "PHONE_HOME": "",
+        "PHONE_MOBILE": "",
+        "PHONE_WORK": "",
+        "EMAIL": "",
+        "NOK": "",
+        "MEDICARENO": "",
+        "MEDICARENO_CARD": "",
+        "PENSIONNO": "",
+        "DVANO": "",
+        "IHI": "",
+        "NOK1_FIRSTNAME": "",
+        "NOK1_SURNAME": "",
+        "NOK1_PHONE1": "",
+        "NOK1_PHONE2": "",
+        "NOK2_FIRSTNAME": "",
+        "NOK2_SURNAME": "",
+        "NOK2_PHONE1": "",
+        "NOK2_PHONE2": ""
+      },
+      "contacts_in": [],
+      "contacts_out": []
+    },
+    "1005": {
+      "demographics": {
+        "FIRSTNAME": "Cuthbert",
+        "MIDDLENAME": "",
+        "SURNAME": "Pennywhistle",
+        "NAME": "Mr Cuthbert Pennywhistle",
+        "PREFERREDNAME": "",
+        "DOB": "1955-01-08",
+        "ADDRESS": "9 Smith- Jones Road, Tallebudgera QLD 4228",
+        "ADDRESS1_PART": "9 Smith- Jones Road",
+        "ADDRESS2_PART": "",
+        "CITY_PART": "Tallebudgera",
+        "POSTCODE_PART": "4228",
+        "PHONE_HOME": "",
+        "PHONE_MOBILE": "",
+        "PHONE_WORK": "",
+        "EMAIL": "",
+        "NOK": "",
+        "MEDICARENO": "",
+        "MEDICARENO_CARD": "",
+        "PENSIONNO": "",
+        "DVANO": "",
+        "IHI": "",
+        "NOK1_FIRSTNAME": "",
+        "NOK1_SURNAME": "",
+        "NOK1_PHONE1": "",
+        "NOK1_PHONE2": "",
+        "NOK2_FIRSTNAME": "",
+        "NOK2_SURNAME": "",
+        "NOK2_PHONE1": "",
+        "NOK2_PHONE2": ""
+      },
+      "contacts_in": [],
+      "contacts_out": []
+    },
+    "1007": {
+      "demographics": {
+        "FIRSTNAME": "Odile",
+        "MIDDLENAME": "",
+        "SURNAME": "Pemberly",
+        "NAME": "Ms Odile Pemberly",
+        "PREFERREDNAME": "",
+        "DOB": "1972-05-19",
+        "ADDRESS": "9 Old Mill Road, Farville QLD 4999",
+        "ADDRESS1_PART": "9 Old Mill Road",
+        "ADDRESS2_PART": "",
+        "CITY_PART": "Farville",
+        "POSTCODE_PART": "4999",
+        "PHONE_HOME": "",
+        "PHONE_MOBILE": "",
+        "PHONE_WORK": "",
+        "EMAIL": "",
+        "NOK": "",
+        "MEDICARENO": "",
+        "MEDICARENO_CARD": "",
+        "PENSIONNO": "",
+        "DVANO": "",
+        "IHI": "",
+        "NOK1_FIRSTNAME": "",
+        "NOK1_SURNAME": "",
+        "NOK1_PHONE1": "",
+        "NOK1_PHONE2": "",
+        "NOK2_FIRSTNAME": "",
+        "NOK2_SURNAME": "",
+        "NOK2_PHONE1": "",
+        "NOK2_PHONE2": ""
+      },
+      "contacts_in": [],
+      "contacts_out": []
+    }
+  },
+  "practice_locations": [
+    {
+      "ADDRESS1": "7 Example Lane",
+      "ADDRESS2": "",
+      "CITY": "Sampleton",
+      "POSTCODE": "4999",
+      "PHONE": "0755509999",
+      "AHPHONE": "",
+      "FAX": "0755509998",
+      "EMAIL": "reception@example.org"
+    }
+  ],
+  "hcp_practice_contacts": [
+    {
+      "CONTACTID": 101,
+      "FIRSTNAME": "Peter",
+      "SURNAME": "Small",
+      "CATEGORYNAME": "Radiology"
+    },
+    {
+      "CONTACTID": 102,
+      "FIRSTNAME": "Ann",
+      "SURNAME": "Rose",
+      "CATEGORYNAME": "Psychology"
+    },
+    {
+      "CONTACTID": 103,
+      "FIRSTNAME": "Jo",
+      "SURNAME": "Quokkaby",
+      "CATEGORYNAME": "General Practice"
+    }
+  ],
+  "practice_doctors": [
+    {
+      "user_id": 1,
+      "first_name": "Ophelia",
+      "surname": "Wrenfield"
+    }
+  ],
+  "practice_staff": [
+    {
+      "user_id": 2,
+      "first_name": "Barnaby",
+      "surname": "Tumblewick",
+      "role": "Practice nurse"
+    }
+  ],
+  "common_first_names": [
+    {
+      "name": "peter"
+    },
+    {
+      "name": "ann"
+    },
+    {
+      "name": "jo"
+    }
+  ],
+  "practice_preferred_names": [
+    {
+      "FirstName": "Marigold",
+      "MiddleName": "",
+      "Surname": "Fennimore",
+      "PreferredName": "Mari"
+    },
+    {
+      "FirstName": "Marigold",
+      "MiddleName": "",
+      "Surname": "Pocklington",
+      "PreferredName": "Mari"
+    },
+    {
+      "FirstName": "Marigold",
+      "MiddleName": "",
+      "Surname": "Ashgrove",
+      "PreferredName": "Mari"
+    }
+  ],
+  "practice_users": [
+    {
+      "user_id": 1,
+      "first_name": "Ophelia",
+      "surname": "Wrenfield"
+    },
+    {
+      "user_id": 2,
+      "first_name": "Barnaby",
+      "surname": "Tumblewick"
+    }
+  ],
+  "bp_users": [
+    {
+      "USERID": 901,
+      "Firstname": "Ottoline",
+      "Surname": "Brambleby",
+      "GroupCode": 3,
+      "PasswordSalt": "k3J9",
+      "Password": "9A379EA6E13441202E9F97AD245F576AE0DF12A3CE7BCA11CCF07270E1CB52D6"
+    },
+    {
+      "USERID": 902,
+      "Firstname": "Percival",
+      "Surname": "Thistlewood",
+      "GroupCode": 1,
+      "PasswordSalt": "q8Zp",
+      "Password": "0F5E8ED380CFE40E2E77FE066CB2BCD2479B71D95006D7D9EA338B8FFD59AA66"
+    },
+    {
+      "USERID": 903,
+      "Firstname": "Wren",
+      "Surname": "Hollowmere",
+      "GroupCode": 5,
+      "PasswordSalt": "x1Lm",
+      "Password": "9659BA5B2FA49157B115C46E39B59E8C05CC60DA51BE8A242603168B971F5260"
+    }
+  ],
+  "patient_first_name_counts": [
+    {
+      "first_name": "Linda",
+      "n": 12
+    },
+    {
+      "first_name": "Joanne",
+      "n": 15
+    },
+    {
+      "first_name": "Joanne Mary",
+      "n": 2
+    },
+    {
+      "first_name": "June",
+      "n": 20
+    },
+    {
+      "first_name": "Rose",
+      "n": 30
+    },
+    {
+      "first_name": "Zephyrine",
+      "n": 3
+    },
+    {
+      "first_name": "Sam",
+      "n": 14
+    },
+    {
+      "first_name": "Ava",
+      "n": 11
+    }
+  ],
+  "practice_name": [
+    {
+      "SOURCE": "practice",
+      "NAME": "Avonleigh and Brackenridge Medical Centres"
+    },
+    {
+      "SOURCE": "practice",
+      "NAME": ""
+    },
+    {
+      "SOURCE": "location",
+      "NAME": "Avonleigh"
+    },
+    {
+      "SOURCE": "location",
+      "NAME": "Brackenridge"
+    }
+  ]
+}
