@@ -1,4 +1,4 @@
-BPS Redaction Service
+MedUI Redaction Core (the bps-redaction package and its HTTP service)
 Copyright 2026 H. Eviston (Medical) Pty Ltd
 
 Licensed under the Apache License, Version 2.0 (see LICENSE).

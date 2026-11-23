@@ -1,4 +1,4 @@
-# BPS Redaction Service
+# MedUI Redaction Core
 
 Rule-based redaction and de-redaction of patient text, for practices and
 developers working with Best Practice Premier data. **Pre-release.**
